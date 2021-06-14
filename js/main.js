@@ -274,7 +274,7 @@
 		// + minutes + "Minutes " + seconds + "Seconds ";
 
 		// Display the result in an element with id="demo"
-		document.getElementById("days").innerHTML = days +" <small>dias</small>";
+		document.getElementById("days").innerHTML = days +" <small>días</small>";
 		document.getElementById("hours").innerHTML = hours + " <small>horas</small> ";
 		document.getElementById("minutes").innerHTML = minutes + " <small>minutos</small> ";
 		document.getElementById("seconds").innerHTML = seconds + " <small>segundos</small> ";
